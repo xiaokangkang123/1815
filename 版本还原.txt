@@ -1,0 +1,3 @@
+git reflog 查找版本号;
+
+git reset  --hard 版本号 版本还原;
